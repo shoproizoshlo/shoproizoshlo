@@ -1,17 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Susanna
 ===============================================================================================================================
 
-Frontend Developer
+ex-Frontend Developer
 ------------------
 
-After working in marketing for four years, I decided to change my career path and have been learning programming for the past two years. I love turning designs into code, creating visually appealing and user-friendly interfaces that make digital products accessible and enjoyable.
+After learning programming over the past two years, I’ve decided to return to marketing, where I previously worked for four years. I’m no longer available for coding projects, but I can set up and manage Google Ads for your business.
 
 * 🌍  I'm based in Vienna, Austria
-* 🧠  I'm learning Next.js, Framer Motion
-* 🤝  I'm open to collaborating on exciting projects to practice and grow in web development
-* ⚡  I’m Looking For: like-minded people to collaborate with and opportunities to develop professionally in web development
+* 🤝   I’m open to collaborating on exciting projects
+* ⚡  I’m looking for like-minded people to collaborate with and opportunities to help businesses grow
 
-### Skills
+### Skills I had
 
 
 <p align="left">
@@ -19,10 +18,6 @@ After working in marketing for four years, I decided to change my career path an
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/suereact" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/susanna-brechko" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/suereact" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-## See some projects I recently worked on
+## See some projects I worked on
 
 👇🏻 👇🏻 👇🏻
